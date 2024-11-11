@@ -5,4 +5,5 @@ description: ""
 background: "banner.png"
 ---
 
-Welcome on this testwebsite
+Welcome on this testwebsite.
+I'm a french artist based in Strasbourg
