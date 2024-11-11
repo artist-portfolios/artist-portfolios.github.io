@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A test website"
+title: "Website of Gabrielle Kalnins"
 description: ""
 background: "banner.png"
 ---
