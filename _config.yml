@@ -1,4 +1,4 @@
-title: A test website
+title: Gabrielle Kalnins
 email: a@a.com
 baseurl:
 url: "artistportfolio.github.io"
@@ -6,7 +6,7 @@ github_username: simonqueric
 
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
-name: A test website
+name: Gabrielle Kalnins
 
 exclude:
  - tmp/
