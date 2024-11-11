@@ -1,6 +1,6 @@
 title: A test website
 email: a@a.com
-baseurl: ""
+baseurl:
 url: "artistportfolio.github.io"
 github_username: simonqueric
 
